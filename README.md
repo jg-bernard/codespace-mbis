@@ -1,4 +1,4 @@
-# MBIS Codespace
+# University of Canterbury MBIS Codespace
 
 Welcome to your project repository!  When you open up a codespace, it automatically sets up a personal coding environment in the cloud: no installation, no configuration, nothing to do on your own computer. All you need is a browser.
 
