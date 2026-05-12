@@ -168,8 +168,8 @@ install_agent_tools() {
         hash -r
     fi
 
-    echo "Installing Mistral Vibe via uv..."
-    uv tool install --upgrade mistral-vibe
+    # echo "Installing Mistral Vibe via uv..."
+    # uv tool install --upgrade mistral-vibe
 
 }
 
